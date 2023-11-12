@@ -1,0 +1,76 @@
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+escuelas{
+    background-color: beige;
+    margin: 1%;
+    text-align: center;
+}
+Lista_escuelas::before{
+    content: "Listado de libros";
+    color: skyblue;
+    display: block;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+Lista_escuelas::after{
+    content: "Miranda Daniela Hernandez Mendiola 2048362";
+    color: gray;
+    display: block;
+    font-size: 12px;
+    font-weight: 300;
+    font-style: oblique;
+    margin: 10px;
+    text-align: right;
+}
+
+escuela{
+    background-color: skyblue;
+    border: 2px green;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 2%;
+    margin: 1%;
+    height: auto;
+    text-align: left;
+    vertical-align: top;
+    width: 30%;
+
+
+}
+
+nombre, ciudad, requisitos, materias, idiomas{
+    display: block;
+    font-size: 15px;
+    padding: 5px;
+}
+
+nombre{
+    color: blue;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+requisitos{
+    color: black;
+}
+requisito1, requisito2, requisito3{
+    line-height: 19px;
+    display: block;
+    
+}
+materias{
+    display: block;
+    
+}
+materia1, materia2, materia3{
+    line-height: 12px;
+}
+

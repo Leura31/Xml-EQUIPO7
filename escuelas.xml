@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="estilo-escuela.css"?> 
+
+<Lista_escuelas>
+    <escuela>
+        <nombre> Universidad de Guadalajara</nombre>
+        <ciudad> Guadalajara, Mexico</ciudad>
+        <requisitos>
+            <requisito1> Certificado de Bachillerato original</requisito1>
+            <requisito2> Presentar Examen de Admisión</requisito2>
+            <requisito3> Cumplir con los requisitos de ingreso</requisito3>
+        </requisitos>
+        <materias>
+            <materia1> Programacion Estructurada</materia1>
+            <materia2> Construccion de interfaces</materia2>
+            <materia3> POO</materia3>
+        </materias>
+        <idiomas>Español, 2do idioma</idiomas>
+    </escuela>
+
+    <escuela>
+        <nombre> Instituto Tecnologico de Massachusetts</nombre>
+        <ciudad> Massachusetts, EUA</ciudad>
+        <requisitos>
+            <requisito1> Aptitud razonable para las matemáticas</requisito1>
+            <requisito2> Consultar prerequistosExamen de Admisión</requisito2>
+            <requisito3> Conocientos de calculo, matematicas, etc</requisito3>
+        </requisitos>
+        <materias>
+            <materia1> Introducción a la informática</materia1>
+            <materia2> Programa MITx MicroMasters</materia2>
+            <materia3> Machine Learning con Python</materia3>
+        </materias>
+        <idiomas>Ingles, Frances, 3er idioma</idiomas>
+    </escuela>
+    
+    <escuela>
+        <nombre> Universidad Técnica de Munich</nombre>
+        <ciudad> Munich, Alemania</ciudad>
+        <requisitos>
+            <requisito1> Certificado de bachillerato alemán</requisito1>
+            <requisito2> Resumen general de tu rendimiento</requisito2>
+            <requisito3> Prueba de la nota promedio alcanzada</requisito3>
+        </requisitos>
+        <materias>
+            <materia1> Analisis natematico</materia1>
+            <materia2> Organizacion del computtador</materia2>
+            <materia3> Paradigmas de lenguajes</materia3>
+        </materias>
+        <idiomas>Ingles, Aleman, 3er idioma</idiomas>
+    </escuela>
+</Lista_escuelas>
