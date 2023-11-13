@@ -49,4 +49,87 @@
         </materias>
         <idiomas>Ingles, Aleman, 3er idioma</idiomas>
     </escuela>
+
+
+    <escuela>
+        <nombre> Universidad de Roma Tor Vergata </nombre>
+        <ciudad> Via Orazio Raimondo, 18 00173 - Roma  </ciudad>
+        <requisitos>
+            <requisito1> Tener buen historial de calificaciones </requisito1>
+            <requisito2> Conocimiento avanzado en el area de TI </requisito2>
+        </requisitos>
+    <materias>
+        <materia1> Algoritmos computacionales </materia1>
+        <materia2> Introduccion a la IA  </materia2>
+        <materia3>  Ecuaciones Computacionales </materia3>
+    </materias>
+    <idiomas>  Ingles y Italiano </idiomas>
+
+    </escuela>
+
+
+
+    <escuela>
+    <nombre>Universidad de la Laguna </nombre>  
+    <ciudad> San Cristóbal de La Laguna (España) </ciudad>
+    <requisitos>
+        <requisito1> Conocimiento avanzado de DB</requisito1>
+        <requisito2>  Ser Estudiante Proactivo y Autodidacta </requisito2>
+    </requisitos>
+    <materias>
+        <materia1> Base de Datos </materia1>
+        <materia2> Administracion hacia la DB </materia2>
+    </materias>
+    <idiomas> Español, Ingles </idiomas>
+    </escuela>
+
+
+    <escuela>
+        <nombre>Universidad Nacional de Rio Cuarto</nombre>
+        <ciudad> Río Cuarto, Córdoba, Argentina  </ciudad>
+        <requisitos> 
+            <requisito1> Certificado relacionado al area de TI </requisito1>
+            <requisito2> Tener un buen desempeño academico  </requisito2>
+        </requisitos>
+        <materias>
+            <materia1>  Calculo Integral </materia1>
+            <materia2> Orientacion a Objetos </materia2>
+        </materias>
+        <idiomas> Español, Ingles y Frances </idiomas>
+    </escuela>
+
+
+    <escuela>
+        <nombre> La Universidad del Sinú - Elías Bechara Zainúm </nombre>
+        <ciudad> No. 38-153 4536534, Cra. 1W, Montería, Córdoba, Colombia  </ciudad>
+        <requisitos>
+            <requisito1> Estudiar por lo menos 3 años en la univeridad </requisito1>
+            <requisito2> Ser parte de algun proyecto en la Universidad  </requisito2>
+        </requisitos>
+        <materias>
+            <materia1> Programacion Web  </materia1>
+            <materia12> Introduccion a las bases de datos</materia12>
+        </materias>
+        <idiomas> Español y Ingles  </idiomas>
+
+    </escuela>
+
+
+    <escuela>
+        <nombre> Universidad Simón Bolívar  </nombre>
+        <ubicacion> Cl. 58 #55-132, Nte. Centro Historico, Barranquilla, Atlántico, Colombia  </ubicacion>
+        <requisitos>
+            <requisito1> Tener un desempeño academico destacable </requisito1>
+            <requisito2> Estancia por lo menos 3 años </requisito2>
+        </requisitos>
+        <materias>
+            <materia1> Matematicas y como beneficia a la Tecnologia </materia1>
+            <materia2> Bases de Datos y su Administración </materia2>
+        </materias>
+        <idiomas> Españo, Ingles y Frances </idiomas>
+
+
+
+    </escuela>
+
 </Lista_escuelas>
