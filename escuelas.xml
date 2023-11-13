@@ -3,6 +3,7 @@
 
 <Lista_escuelas>
     <escuela>
+        <alumno> Miranda Daniela Hernandez Mendiola 2048362 </alumno>
         <nombre> Universidad de Guadalajara</nombre>
         <ciudad> Guadalajara, Mexico</ciudad>
         <requisitos>
@@ -19,6 +20,7 @@
     </escuela>
 
     <escuela>
+         <alumno> Miranda Daniela Hernandez Mendiola 2048362 </alumno>
         <nombre> Instituto Tecnologico de Massachusetts</nombre>
         <ciudad> Massachusetts, EUA</ciudad>
         <requisitos>
@@ -35,6 +37,7 @@
     </escuela>
     
     <escuela>
+         <alumno> Miranda Daniela Hernandez Mendiola 2048362 </alumno>
         <nombre> Universidad Técnica de Munich</nombre>
         <ciudad> Munich, Alemania</ciudad>
         <requisitos>
@@ -52,6 +55,7 @@
 
 
     <escuela>
+        <alumno> Alejandro Leura Gonzalez 1732571 </alumno>
         <nombre> Universidad de Roma Tor Vergata </nombre>
         <ciudad> Via Orazio Raimondo, 18 00173 - Roma  </ciudad>
         <requisitos>
@@ -70,11 +74,12 @@
 
 
     <escuela>
+            <alumno> Alejandro Leura Gonzalez 1732571 </alumno>
     <nombre>Universidad de la Laguna </nombre>  
     <ciudad> San Cristóbal de La Laguna (España) </ciudad>
     <requisitos>
         <requisito1> Conocimiento avanzado de DB</requisito1>
-        <requisito2>  Ser Estudiante Proactivo y Autodidacta </requisito2>
+    <requisito2>  Ser Estudiante Proactivo y Autodidacta </requisito2>
     </requisitos>
     <materias>
         <materia1> Base de Datos </materia1>
@@ -85,6 +90,7 @@
 
 
     <escuela>
+            <alumno> Alejandro Leura Gonzalez 1732571 </alumno>
         <nombre>Universidad Nacional de Rio Cuarto</nombre>
         <ciudad> Río Cuarto, Córdoba, Argentina  </ciudad>
         <requisitos> 
@@ -100,6 +106,7 @@
 
 
     <escuela>
+            <alumno> Alejandro Leura Gonzalez 1732571 </alumno>
         <nombre> La Universidad del Sinú - Elías Bechara Zainúm </nombre>
         <ciudad> No. 38-153 4536534, Cra. 1W, Montería, Córdoba, Colombia  </ciudad>
         <requisitos>
@@ -116,6 +123,7 @@
 
 
     <escuela>
+            <alumno> Alondra Abigail Garces Gutierrez 1968158 </alumno>
         <nombre> Universidad Simón Bolívar  </nombre>
         <ubicacion> Cl. 58 #55-132, Nte. Centro Historico, Barranquilla, Atlántico, Colombia  </ubicacion>
         <requisitos>
@@ -128,8 +136,44 @@
         </materias>
         <idiomas> Españo, Ingles y Frances </idiomas>
 
-
-
     </escuela>
+
+    <escuela>
+        <alumno> Alondra Abigail Garces Gutierrez </alumno>
+        <nombre> Universidad Nacional Autonoma de Mexico</nombre>
+        <ciudad> Ciudad de Mexico</ciudad>
+        <requisitos>
+            <requisito1> Certificado oficial de dominio de idioma español SIELE o DELE,vigente con nivel minimo B2 para alumnos no hispanohablantes</requisito1>
+            <requisito2> Presentar carta compromiso con forme al formato, debidamente contestada.</requisito2>
+            <requisito3> Presentar historial academico (Transcrip/kardex) con promedio general miimo 8/10 y un minimo de 44% de creditos en su plan de estudios. </requisito3>
+        </requisitos>
+        <materias>
+            <materia1> Analisis matematico</materia1>
+            <materia2> Sistemas Operativos</materia2>
+            <materia3> Paradigmas de lenguajes</materia3>
+        </materias>
+        <idiomas>Español</idiomas>
+    </escuela>
+
+     <escuela>
+        <alumno> Alondra Abigail Garces Gutierrez </alumno>
+        <nombre> The University of Texas at San Antonio</nombre>
+        <ciudad> San Antonio, Texas</ciudad>
+        <requisitos>
+            <requisito1> Certificado TOELF,IELTS, PTE Academic, iTEP Academic or Cambridge C1</requisito1>
+            <requisito2>Todos los documentos depenmdiendo del país requiere documentación específica al postular a UTSA y todos los documentos presentados deben estar traducidos al inglés</requisito2>
+            <requisito3> Presentar historial academico con promedio general minimo de 8 y un minimo del 60% de creditos en su plan de estudios. </requisito3>
+            <requisito4> Las certificaciones DEBEN obtenerse del colegio / universidad emisor, el Controlador de Exámenes / Registros o el Director.
+La certificación debe incluir la firma y el sello oficial adecuados </requisito4> 
+        </requisitos>
+        <materias>
+            <materia1> Analisis de sistemas</materia1>
+            <materia2> Diseño de Sistemas</materia2>
+            <materia3> Computacion</materia3>
+        </materias>
+        <idiomas> Ingles </idiomas>
+    </escuela>
+
+    
 
 </Lista_escuelas>
