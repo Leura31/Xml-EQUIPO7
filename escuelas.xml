@@ -174,6 +174,57 @@ La certificación debe incluir la firma y el sello oficial adecuados </requisito
         <idiomas> Ingles </idiomas>
     </escuela>
 
+        <escuela>
+        <alumno> Carlos Emiliano Mendoza Ramirez - 2048186 </alumno>
+        <nombre> Universidad Politecnica De Madrid </nombre>
+        <ciudad> Madrid, España </ciudad>
+        <requisitos>
+            <requisito1> Credencial o certificado del Centro que acredite que ha sido elegido estudiante Erasmus. </requisito1>
+            <requisito2> Certificado de conocimientos lingüísticos suficientes </requisito2>
+            <requisito3> Entrevista</requisito3> 
+        </requisitos>
+        <materias>
+            <materia1> Inteligencia Artificial</materia1>
+            <materia2> Redes de Computadores</materia2>
+            <materia3> Ingenieria del proceso Software y Construccion</materia3>
+        </materias>
+        <idiomas> Español para la Ciencia y la Tecnología.</idiomas>
+    </escuela>
+
+    <escuela>
+        <alumno> Carlos Emiliano Mendoza Ramirez - 2048186 </alumno>
+        <nombre> Universidad Nacional Autonoma de Mèxico </nombre>
+        <ciudad> Ciudad de México, CDMX </ciudad>
+        <requisitos>
+            <requisito1> Ser un estudiante regular de tiempo completo de licenciatura en una Institución de Educación Superior (IES) internacional o nacional. </requisito1>
+            <requisito2> Contar con pasaporte vigente (para estudiantes extranjeros).</requisito2>
+            <requisito3> Haber cursado al menos el 44% de los créditos de tu plan de estudios en tu universidad de origen.</requisito3> 
+        </requisitos>
+        <materias>
+            <materia1> Compiladores</materia1>
+            <materia2> Sistemas de Comunicaciones</materia2>
+            <materia3> Ingenieria de Software</materia3>
+        </materias>
+        <idiomas> Español</idiomas>
+    </escuela>
+
+    <escuela>
+        <alumno> Carlos Emiliano Mendoza Ramirez - 2048186 </alumno>
+        <nombre> Instituto Politécnico Nacional </nombre>
+        <ciudad> Ciudad de México, CDMX </ciudad>
+        <requisitos>
+            <requisito1> Disponibilidad de horario</requisito1>
+            <requisito2> Dominio de inglés (preferente) u otro idioma</requisito2>
+            <requisito3> Acreditar el taller de inducción </requisito3> 
+        </requisitos>
+        <materias>
+            <materia1> Comunicacion de datos</materia1>
+            <materia2> Programacion movil</materia2>
+            <materia3> Seguridad en Redes</materia3>
+        </materias>
+        <idiomas> Español</idiomas>
+    </escuela>
+
     
 
 </Lista_escuelas>
